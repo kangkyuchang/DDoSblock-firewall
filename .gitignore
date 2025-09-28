@@ -1,1 +1,10 @@
-
+*.pyc
+.vscode
+test.py
+/tmp
+*.csv
+*.h5
+*.pkl
+*.xlsx
+config.py
+.DS_Store
